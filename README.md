@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**abidhasansojib/abidhasansojib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Beautiful Programmer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ghmXlnnHuXP2ndnmsYCX2N_m_epVy5oVdw&usqp=CAU)
+# Hello, I'm Abid Hasan Sojib! 👋
+Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🚀 Passionate about technology, coding, and open source.
+
+💼 Aspiring Software Developer exploring the endless possibilities of code.
+
+🌱 Learning, growing, and building cool stuff.
+
+## Tech Stack
+
+👨‍💻 Here are some of the technologies I work with:
+- Python
+- JavaScript
+- HTML/CSS
+
+## GitHub Stats
+
+[![Abid Hasan Sojib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abidhasansojib&show_icons=true&theme=dark)](https://github.com/abidhasansojib)
+
+## Connect with Me
+
+🌐 [GitHub](https://github.com/abidhasansojib)
+📧 [Email](mailto:abidhasansojib002@gmail.com)
+📱 [Facebook](https://m.facebook.com/abidhasansojib.me)
+
+Let's create, innovate, and make the digital world a better place!
