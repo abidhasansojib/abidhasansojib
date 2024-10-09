@@ -27,6 +27,6 @@ Welcome to my GitHub profile.
 
 🌐 [GitHub](https://github.com/abidhasansojib)
 📧 [Email](mailto:abidhasansojib002@gmail.com)
-📱 [Facebook](https://m.facebook.com/abidhasansojib.me)
+📱 [Facebook](https://m.facebook.com/abidhasansojib)
 
 Let's create, innovate, and make the digital world a better place!
