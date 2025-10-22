@@ -6,18 +6,7 @@ Welcome to my GitHub profile.
 
 ## About Me
 
-🚀 Passionate about technology, coding, and open source.
-
-💼 Aspiring Software Developer exploring the endless possibilities of code.
-
-🌱 Learning, growing, and building cool stuff.
-
-## Tech Stack
-
-👨‍💻 Here are some of the technologies I work with:
-- Python
-- JavaScript
-- HTML/CSS
+Not much to spill—I’m not a celebrity (yet 😄). Just a regular human navigating life, minus the paparazzi.
 
 ## GitHub Stats
 
@@ -26,7 +15,7 @@ Welcome to my GitHub profile.
 ## Connect with Me
 
 🌐 [GitHub](https://github.com/abidhasansojib)
-📧 [Email](mailto:abidhasansojib002@gmail.com)
-📱 [Facebook](https://m.facebook.com/abidhasansojib)
+📧 [Email](mailto:abidhasansojib.gm@gmail.com)
+📱 [Facebook](https://m.facebook.com/abidhasansojib.xyz)
 
 Let's create, innovate, and make the digital world a better place!
