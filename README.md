@@ -16,6 +16,4 @@ Not much to spill—I’m not a celebrity (yet 😄). Just a regular human navig
 
 🌐 [GitHub](https://github.com/abidhasansojib)
 📧 [Email](mailto:abidhasansojib.gm@gmail.com)
-📱 [Facebook](https://m.facebook.com/abidhasansojib.xyz)
-
-Let's create, innovate, and make the digital world a better place!
+ⓕ [Facebook](https://m.facebook.com/abidhasansojib.xyz)
